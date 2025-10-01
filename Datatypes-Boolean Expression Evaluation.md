@@ -25,7 +25,7 @@ print("a is",a)
 print("b is",b)
 print("c:",c)
 print("d:",d)
-``````````````
+``````````````````````````
 
 ## Output
 <img width="996" height="261" alt="image" src="https://github.com/user-attachments/assets/7c2b0558-dd6a-41c2-95fa-8523e5924e0c" />
