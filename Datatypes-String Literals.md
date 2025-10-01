@@ -10,8 +10,8 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```````
-a=input()
-print(a)
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
 ````````````
 
 ## Output
@@ -19,5 +19,5 @@ print(a)
 
 
 ## Result
-therefore To write a Python program to read a string from the user and then print itis compiled and the output is verified successfully
+therefore To write a Python program to read a string from the user and then print it is compiled and the output is verified successfully
 
