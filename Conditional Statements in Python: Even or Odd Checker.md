@@ -27,7 +27,7 @@ if(withd>savingAmt) :
 else:
     print("Account Balance:",savingAmt-withd)
 	
-```````````````
+`````````````````````````````
 
 ## Output
 <img width="1035" height="292" alt="image" src="https://github.com/user-attachments/assets/69500ad8-70ea-4a56-88e4-69a5e3f7f3a5" />
